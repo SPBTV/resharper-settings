@@ -15,6 +15,6 @@
 	</dependencies>
   </metadata>
   <files>
-    <file src="Settings\" target="DotFiles\Extensions\YourCompany.Settings\settings\" />
+    <file src="Settings\" target="DotFiles\Extensions\SPBTV.Settings\settings\" />
   </files>
 </package>
