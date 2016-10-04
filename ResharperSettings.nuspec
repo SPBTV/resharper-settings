@@ -1,23 +1,18 @@
 <?xml version="1.0"?>
-<package>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>SpbTV.Settings</id>
-    <version>1.0.0</version>
-    <title>TeamSettings</title>
-    <authors>Alexander Gerasimov, Momchil Marinov, Mijail Cisneros</authors>
-    <owners>SpbTV</owners>
-    <projectUrl>http://your-company.com</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>
-      Team settings and live templates for ReSharper
-    </description>
-    <copyright>Copyright © SpbTV</copyright>
+    <id>$assembly$</id>
+    <title>$assembly$</title>
+    <version>$version$</version>
+    <description>$description$</description>
+    <authors>$authors$</authors>
+    <owners>$owners$</owners>
+    <iconUrl>$iconUrl$</iconUrl>
+    <projectUrl>http://stash.mwm.local/projects/WIN/repos/spb-tv-code-style/browse</projectUrl>
+    <requireLicenseAcceptance>$requireLicenseAcceptance$</requireLicenseAcceptance>
     <dependencies>
       <dependency id="Wave" version="[5.0]" />
 	</dependencies>
-    <releaseNotes>
-    </releaseNotes>
-    <tags>settings</tags>
   </metadata>
   <files>
     <file src="Settings\" target="DotFiles\Extensions\YourCompany.Settings\settings\" />
