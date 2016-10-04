@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SpbTV.Settings</id>
+    <version>1.0.0</version>
+    <title>TeamSettings</title>
+    <authors>Alexander Gerasimov, Momchil Marinov, Mijail Cisneros</authors>
+    <owners>SpbTV</owners>
+    <projectUrl>http://your-company.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Team settings and live templates for ReSharper
+    </description>
+    <copyright>Copyright © SpbTV</copyright>
+    <dependencies>
+      <dependency id="Wave" version="[5.0]" />
+	</dependencies>
+    <releaseNotes>
+    </releaseNotes>
+    <tags>settings</tags>
+  </metadata>
+  <files>
+    <file src="Settings\" target="DotFiles\Extensions\YourCompany.Settings\settings\" />
+  </files>
+</package>
