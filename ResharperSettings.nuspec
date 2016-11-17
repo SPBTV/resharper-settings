@@ -8,7 +8,7 @@
     <authors>$authors$</authors>
     <owners>$owners$</owners>
     <iconUrl>$iconUrl$</iconUrl>
-    <projectUrl>http://stash.mwm.local/projects/WIN/repos/spb-tv-code-style/browse</projectUrl>
+    <projectUrl>https://github.com/SPBTV/resharper-settings</projectUrl>
     <requireLicenseAcceptance>$requireLicenseAcceptance$</requireLicenseAcceptance>
     <dependencies>
       <dependency id="Wave" version="[5.0]" />
